@@ -25,13 +25,7 @@ public class variablesconst
         int a=1;
         int b=2;
 
-        System.out.println(a+b);
-
-        // Testing cin syntax
-
-        
-        
-
+        System.out.println(a+b);      
 
  }
 }
