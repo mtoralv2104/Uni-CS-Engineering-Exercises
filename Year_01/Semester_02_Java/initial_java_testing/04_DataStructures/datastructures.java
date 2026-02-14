@@ -19,7 +19,10 @@ public class datastructures {
 
         // List
         ArrayList<String> namesList = new ArrayList<>();
+        var numbers = new ArrayList<Integer>();
 
         System.out.println(namesList);
+        System.out.println(numbers);
+
     }    
 }
